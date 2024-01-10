@@ -1,6 +1,6 @@
 # Differential-Equations
 Some theory and numerical solvers for ODEs and PDEs
-This repository contains several files regarding theoretical aspects and numerical solvers for differential equations. 
+This repository contains several files regarding theoretical aspects and numerical solvers for differential equations. Most of the problems have come from various courses across my educational career. 
 - FEM and Weak form of Elliptic Equations contains 2 folders. 1) Theory and Analysis which contains a PDF of examples proving the existence and uniqueness of elliptic PDEs and how weak formulations can be used for finite element method. 2) Finite Element Method contains a PDF with another example of deriving a linear system for FEM of a Sturm-Liouville differential equation. It also contains 2 folders: 1) with derivation and code for FEM solving the 1D heat equation, and 2) FEM method for 1D second order ode (with uniform and non-uniform mesh.
 - Hyperbolic Problems contains 2 folders. 1) Contains code and derivation of the standard upwinding scheme for Burger's Equation. 2) Example of truncation error and stability analysis for hyperbolic PDEs. 
 - Iterative Solvers contains code for Jacobi, Gauss-Siedel, and SOR (along with code for finding optimal parameter in SOR) solving a 2D boundary value problem, and a PDF with the results summarized.
