@@ -6,7 +6,7 @@ This repository contains several files regarding theoretical aspects and numeric
 - Iterative Solvers contains code for Jacobi, Gauss-Siedel, and SOR (along with code for finding optimal parameter in SOR) solving a 2D boundary value problem, and a PDF with the results summarized.
 - Nonlinear Boundary Value Problems contains 2 folders and a PDF. The PDF contains the derivation of Newton Iteration for two nonlinear boundary value problems and computational results. The two folders contain code for 1) nonlinear pendulum, and 2) a singular differential equation that exhibits boundary layer phenomena. 
 - Asymptotics
-- Finite Difference Solvers
+- Finite Difference Solvers contains a folder with 2 PDFs and code. 1) PDF contains derivation of various finite differencing terms, and 2) PDF contains finite difference schemes for the heat equations -- both with centered differencing in space then 1) forward differencing in time, and 2) Crank-Nicholson in time.
 - Additional Diff. Eqn. Theory contains a folder with PDF with examples of using the contraction mapping principle to establish the existence and uniqueness of solutions of differential equations and an example of the Implicit function theorem (for the same purpose). Green's function is under construction.
 
 If I find the time, I would like to add some additional theory for linear PDEs such as transform theory, eigenfunction expansion, Sturm-Liouville Theory, and Green's Functions. 
